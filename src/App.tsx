@@ -11,23 +11,23 @@ import { TextMediaBlock } from "@/components/Block/TextMediaBlock";
 const news = [
   {
     title:
-      "O ”Boom” das plataformas de Delivery no Brasil e suas consequências peculiares",
+      "Os metais valiosos contidos em seu smartphone - e por que ele pode se tornar um problema ambiental",
     image:
-      "https://static.wixstatic.com/media/0b3988_3a87d77344804aefb0ce2023a26f34f4~mv2.jpg/v1/fill/w_693,h_363,al_c,q_80,enc_auto/0b3988_3a87d77344804aefb0ce2023a26f34f4~mv2.jpg",
-    link: "https://portal.fgv.br/artigos/boom-plataformas-delivery-brasil-e-suas-consequencias-peculiares",
+      "https://c.files.bbci.co.uk/108B3/production/_92636776_813d602d-1732-4812-b425-e96de297b310.jpg",
+    link: "https://www.google.com.br/url?sa=i&url=https%3A%2F%2Fwww.bbc.com%2Fportuguese%2Fvert-fut-38092622&psig=AOvVaw3gVMAWdhdfW1nGszQjVNcq&ust=1700603099390000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMim-a7G04IDFQAAAAAdAAAAABAJ",
   },
   {
     title:
-      "Entregador de delivery é atropelado por Hilux em alta velocidade e morre",
+      "Vídeos mostram arrastões, agressões, roubos e furtos de celulares durante Virada Cultural em SP",
     image:
-      "https://amazonasatual.com.br/wp-content/uploads/2023/01/Hilux-acidente.jpg",
-    link: "https://amazonasatual.com.br/entregador-de-delivery-e-atropelado-por-hilux-em-alta-velocidade-e-morre/",
+      "https://s03.video.glbimg.com/640x360/10619226.jpg",
+    link: "https://www.google.com.br/url?sa=i&url=https%3A%2F%2Fg1.globo.com%2Fsp%2Fsao-paulo%2Fnoticia%2F2022%2F05%2F29%2Fvideos-mostram-grupos-de-jovens-fazendo-arrastoes-agredindo-roubando-e-furtando-celulares-de-frequentadores-da-virada-cultural.ghtml&psig=AOvVaw05yR5CpCx7PDcUuHezWv3g&ust=1700603292523000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIi174rH04IDFQAAAAAdAAAAABAE",
   },
   {
-    title: "Tendências da Logística para o Futuro",
+    title: "Como a nanotecnologia irá transformar o mundo como o conhecemos",
     image:
-      "https://www.truckpad.com.br/wp-content/uploads/2022/12/full-shot-man-walking-by-trucks-fleet-min-2048x1365.jpg",
-    link: "https://www.truckpad.com.br/blog/tendencias-da-logistica-para-o-futuro/#:~:text=A%20integra%C3%A7%C3%A3o%20de%20sistemas%2C%20a,da%20log%C3%ADstica%20para%20o%20futuro.",
+      "https://miro.medium.com/v2/resize:fit:1200/1*xnfp85H2bjaeK73syTXWEA.jpeg",
+    link: "https://www.google.com.br/url?sa=i&url=https%3A%2F%2Fmedium.com%2Ffuturo-exponencial%2Fcomo-a-nanotecnologia-ir%25C3%25A1-transformar-o-mundo-como-o-conhecemos-fcc770b48eb8&psig=AOvVaw2cm5AyqTQsgdJ3UK-SMxRJ&ust=1700603205163000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJiQwOHG04IDFQAAAAAdAAAAABAE",
   },
 ];
 
